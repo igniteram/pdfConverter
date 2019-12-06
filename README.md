@@ -1,5 +1,10 @@
 ### PDF converter using node
 
+#### Prerequisites
+
+- node.js installed
+- clone the repo and run `npm install`
+
 #### First Approach(Not recommended)
 
 - This project has a file `convertUsingDocPdf.js`
